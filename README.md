@@ -1,9 +1,8 @@
-## Olá, eu sou o Danilo Campos! 👋
+## Olá, seja bem-vindo(a)! 👋
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <!--<a href="https://github.com/dcampos90">-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcampos90&show_icons=true&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampos90&layout=compact&langs_count=16&theme=chartreuse-dark" alt="salma-elbakkouri" style="margin: 0"
+  <a href="https://github.com/dcampos90"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcampos90&show_icons=true&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/dcampos90"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampos90&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 ##
